@@ -5,8 +5,8 @@ import App from './App'; //App.js
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
-
 //App은 컴포넌트 App.js에서 정의 -> 실제 구현, 사용자 정의 태그
+
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
